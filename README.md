@@ -4,8 +4,6 @@ This project focuses on analyzing the sales of chocolate products, providing ins
 
 ![Screenshot 2024-10-07 185425](https://github.com/user-attachments/assets/fa64c0a9-b80d-43ce-b0a6-731727835e5a)
 
-![Chocolate Sales Dashboard](assets/chocolate_sales_dashboard.png)
-
 ## Overview
 
 The **Chocolate Sales Analysis** project aims to understand patterns in chocolate sales data. This includes an exploration of factors such as sales over time, geographic performance, product popularity, and customer demographics. The insights generated will help in optimizing sales strategies and improving business decisions.
