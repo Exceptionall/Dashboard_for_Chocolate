@@ -71,5 +71,4 @@ Key insights generated from the analysis include:
 - **Demographic Insights**: Trends related to customer age, income, and preferences.
 
 ## Summary
-- The Chocolate Sales Analysis project utilizes Power BI and SQL to analyze chocolate sales data, revealing key trends in product performance, seasonal variations, and customer demographics.
-- It provides actionable insights to optimize marketing strategies and enhance inventory management.
+The Chocolate Sales Analysis project utilizes Power BI and SQL to analyze chocolate sales data, revealing key trends in product performance, seasonal variations, and customer demographics.It provides actionable insights to optimize marketing strategies and enhance inventory management.
