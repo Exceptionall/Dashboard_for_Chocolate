@@ -8,15 +8,16 @@ This project focuses on analyzing the sales of chocolate products, providing ins
 
 The **Chocolate Sales Analysis** project aims to understand patterns in chocolate sales data. This includes an exploration of factors such as sales over time, geographic performance, product popularity, and customer demographics. The insights generated will help in optimizing sales strategies and improving business decisions.
 
-## Table of Contents
+## Table of Contents## Table of Contents
 
+- [Summary](#summary)
 - [Overview](#overview)
 - [Data](#data)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Project Steps](#project-steps)
   - [Step 1: Data Collection](#step-1-data-collection)
-  - [Step 2: Data Cleaning](#step-2-data-cleaning)
+  - [Step 2: Data Cleaning (SQL)](#step-2-data-cleaning-sql)
   - [Step 3: Data Visualization](#step-3-data-visualization)
   - [Step 4: Insights & Analysis](#step-4-insights--analysis)
 - [License](#license)
@@ -48,11 +49,12 @@ Once you have the Power BI file opened, you can:
 ### Step 1: Data Collection
 The dataset was collected from internal sales systems, containing detailed transactional data related to chocolate sales, product types, and customer demographics.
 
-### Step 2: Data Cleaning
-The data was cleaned to ensure accuracy and completeness:
-- Handled missing values.
-- Corrected data types for time and numerical data.
-- Removed duplicates and irrelevant records.
+### Step 2: Data Cleaning (SQL)
+SQL queries were used to clean and prepare the data for analysis. The following steps were taken:
+- **Remove duplicates**: Eliminated any repeated records in the sales data.
+- **Handle missing values**: Filled in or removed records with missing data.
+- **Data normalization**: Ensured consistent data types for fields such as dates and numbers.
+- **Data filtering**: Removed irrelevant records that were outside the scope of analysis (e.g., products that were no longer sold).
 
 ### Step 3: Data Visualization
 Power BI was used to create visualizations that cover:
@@ -68,6 +70,6 @@ Key insights generated from the analysis include:
 - **Product Preferences**: Top-selling product categories and customer favorites.
 - **Demographic Insights**: Trends related to customer age, income, and preferences.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## Summary
+- The Chocolate Sales Analysis project utilizes Power BI and SQL to analyze chocolate sales data, revealing key trends in product performance, seasonal variations, and customer demographics.
+- It provides actionable insights to optimize marketing strategies and enhance inventory management.
